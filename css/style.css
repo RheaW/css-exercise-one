@@ -85,6 +85,10 @@ h3 {
 }
 
 /* CSS to change background-color */
-.last_three {
+.example, .element, h3 {
   background-color: blue;
+}
+
+.last_three {
+	background-color: green;
 }
